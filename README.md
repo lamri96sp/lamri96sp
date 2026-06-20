@@ -18,9 +18,13 @@
 
 Self-taught GIS practitioner based in East Kalimantan, Indonesia. What started as independent study of QGIS evolved into a full-stack discipline spanning spatial database design, field survey methodology, and interactive WebGIS development.
 
-Academic foundation in Agribusiness (Universitas Mulawarman) informs a practical understanding of land use and resource management — grounding technical work in real territorial context, including large-scale customary land mapping (tanah ulayat) across roughly 25,000 hectares.
+Academic foundation in Agribusiness (Universitas Mulawarman) informs a practical understanding of land use and resource management, grounding technical work in real territorial context. This includes large-scale customary land mapping (tanah ulayat) across roughly 25,000 hectares in Kutai Timur, East Kalimantan, where genealogical records and village formation history were documented alongside spatial boundaries.
 
-The approach is end-to-end: field data captured with precise GPS coordinates, processed through QGIS and PostGIS, and delivered as interactive platforms built with React and Leaflet.js.
+The approach is end-to-end. Field data is captured with precise GPS coordinates and timestamps, processed through QGIS and PostGIS, then delivered as interactive platforms built with React and Leaflet.js. Every layer of the pipeline is hands-on, from walking the boundaries in person to writing the final application code.
+
+This practical foundation extends into local governance work as well, currently serving as Head of Planning Affairs (Kaur Perencanaan) for a village administration in Kutai Timur. That role involves direct exposure to spatial planning documentation, customary land formalization, and village-level digital systems, experience that feeds directly back into the technical work built here.
+
+Currently focused on building tools that bridge the gap between raw geospatial data and the people who need to act on it: village officials, land surveyors, and organizations working with spatial planning in Indonesia.
 
 ---
 
@@ -53,6 +57,6 @@ The approach is end-to-end: field data captured with precise GPS coordinates, pr
 
 <div align="center">
 
-**Open to freelance work** — GIS analysis, WebGIS development, spatial data projects
+**Open to freelance work** for GIS analysis, WebGIS development, and spatial data projects
 
 </div>
