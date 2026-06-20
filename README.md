@@ -16,17 +16,29 @@
 
 ### About
 
-Self-taught GIS practitioner based in East Kalimantan, Indonesia. What started as independent study of QGIS evolved into a full-stack discipline spanning spatial database design, field survey methodology, and interactive WebGIS development. There was no formal program guiding this path. Every tool, from QGIS to PostGIS to Leaflet.js, was learned through direct application rather than coursework.
+<p align="justify">
+There is a particular kind of knowledge that only comes from walking the land before mapping it. Self-taught from the ground up, this practitioner began with QGIS as a curiosity and turned it into a discipline, spending years dissecting spatial logic without a classroom, a mentor, or a syllabus. What emerged was not a checklist of certifications but a working fluency across the entire geospatial pipeline, from raw coordinates captured in the field to polished, production-ready platforms running in a browser.
+</p>
 
-Academic foundation in Agribusiness (Universitas Mulawarman) informs a practical understanding of land use and resource management, grounding technical work in real territorial context. Years of independent fieldwork across Kutai Timur, East Kalimantan, built familiarity with how spatial data behaves on the ground versus on paper, a distinction that shapes every system built since.
+<p align="justify">
+An academic foundation in Agribusiness from Universitas Mulawarman provided an unconventional but durable entry point into spatial thinking. Land use, resource allocation, and territorial planning were never abstract concepts here. They were the daily reality of East Kalimantan, observed and documented across years of independent fieldwork in Kutai Timur. That grounding shapes a particular sensitivity to the gap between data on paper and conditions on the ground, a gap that too many geospatial systems ignore and this one refuses to.
+</p>
 
-The approach is end-to-end. Field data is captured with precise GPS coordinates and timestamps, processed through QGIS and PostGIS, then delivered as interactive platforms built with React and Leaflet.js. Every layer of the pipeline is hands-on, from collecting raw data in the field to writing the final application code that puts it in front of users. This includes a particular focus on GeoPDF vector extraction, converting embedded spatial data from official sources like BIG and Ina-Geoportal into clean, usable Shapefile and GeoJSON formats, a niche capability that few practitioners in the region have developed.
+<p align="justify">
+The craft is end-to-end by design, not by accident. Every project begins with boots on the ground: GPS coordinates captured with deliberate precision, timestamps that hold up to scrutiny, and field conditions verified before a single line of database schema is written. From there, the data moves through QGIS and PostGIS, where structure is imposed on chaos, and finally surfaces as an interactive WebGIS platform built with React and Leaflet.js, designed to be used rather than admired. A particular specialization runs through this work: extracting vector layers from GeoPDF files sourced from BIG and Ina-Geoportal, a technical capability that converts static government documents into living, queryable spatial data. Few in the region have invested the time to master this extraction process. Fewer still have built it into a repeatable, reliable workflow.
+</p>
 
-This practical foundation extends into local governance work as well, currently serving as Head of Planning Affairs (Kaur Perencanaan) for a village administration in Kutai Timur. That role involves direct exposure to spatial planning documentation and village-level digital systems, experience that feeds directly back into the technical work built here. It also means every system designed is tested against the reality of how village administration actually operates, not just how it looks in a specification document.
+<p align="justify">
+This is not purely an academic or remote practice. Direct involvement in local administrative work, including spatial planning documentation and village-level digital systems, keeps every technical decision honest. Systems are not designed in isolation from the people who will actually use them. They are stress-tested against the slow, specific, often messy reality of how village administration functions day to day, which is a very different environment from a clean specification document or a polished demo.
+</p>
 
-Recent work includes building BorneoGIS, a full-featured WebGIS platform with real-time GPS tracking, multi-layer rendering, and a PostgreSQL/PostGIS backend via Supabase, alongside standalone administrative tools for tracking village document submissions and planning workflows. The goal across all of these projects is consistent: build tools that are functional, well-documented, and ready to deploy without unnecessary complexity.
+<p align="justify">
+Recent output reflects that philosophy directly. BorneoGIS stands as a full-featured WebGIS platform combining real-time GPS tracking, multi-layer map rendering, and a PostgreSQL and PostGIS backend served through Supabase, alongside a set of standalone administrative tools built to track village document submissions and planning workflows from start to finish. None of these were built to impress in a portfolio. They were built to function, to be documented clearly enough that someone else could maintain them, and to deploy without unnecessary complexity standing in the way.
+</p>
 
-Currently focused on building tools that bridge the gap between raw geospatial data and the people who need to act on it: village officials, land surveyors, and organizations working with spatial planning in Indonesia. Open to freelance engagements that need someone equally comfortable in the field and at the keyboard.
+<p align="justify">
+The work continues with a clear focus: closing the distance between raw geospatial data and the people who depend on it to make real decisions, whether that is a village official, a land surveyor, or an organization navigating spatial planning across Indonesia. Open to freelance collaboration for anyone who needs someone equally at home surveying a boundary in the field and writing the code that puts it on a map.
+</p>
 
 ---
 
